@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "A blog post consists of regular expressions!?!?!???!!!?",
+    "lastPostTitle": "bingo bongo bingo",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 9,
-        "whenLastDataSave": "2018-09-17T15:39:33.642Z"
+        "ctDataSaves": 11,
+        "whenLastDataSave": "2018-09-17T15:44:14.761Z"
     },
     "posts": {
         "2018": {
@@ -21,6 +21,11 @@
                     "153932": {
                         "textPath": "blog/posts/153932",
                         "create": "2018-09-17T15:39:32.337Z"
+                    },
+                    "154413": {
+                        "title": "bingo bongo bingo",
+                        "path": "blog/posts/154413.md",
+                        "created": "2018-09-17T15:44:13.602Z"
                     }
                 }
             }
