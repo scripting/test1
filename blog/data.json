@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "regular expressions",
+    "lastPostTitle": "A blog post consists of regular expressions",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,7 +11,7 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 1,
-        "whenLastDataSave": "2018-09-16T23:55:50.461Z"
+        "ctDataSaves": 2,
+        "whenLastDataSave": "2018-09-17T00:03:31.322Z"
     }
 }
