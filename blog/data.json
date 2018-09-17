@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "bingo bongo bingo",
+    "lastPostTitle": "bingo bongo bingo 2",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 11,
-        "whenLastDataSave": "2018-09-17T15:44:14.761Z"
+        "ctDataSaves": 13,
+        "whenLastDataSave": "2018-09-17T15:46:13.875Z"
     },
     "posts": {
         "2018": {
@@ -26,6 +26,11 @@
                         "title": "bingo bongo bingo",
                         "path": "blog/posts/154413.md",
                         "created": "2018-09-17T15:44:13.602Z"
+                    },
+                    "154612": {
+                        "title": "bingo bongo bingo 2",
+                        "path": "blog/posts/2018/09/17/154612.md",
+                        "created": "2018-09-17T15:46:12.283Z"
                     }
                 }
             }
