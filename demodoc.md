@@ -1,11 +1,11 @@
-## This is an example of the open source medium editor being used to generate markdown.
+## THIS IS AN EXAMPLE OF THE OPEN SOURCE MEDIUM EDITOR BEING USED TO GENERATE MARKDOWN.
 
-Here's some text. _I am making this bit italic._
+HERE'S SOME TEXT. _I AM MAKING THIS BIT ITALIC._
 
-**Here's a bit of bold text.**
+**HERE'S A BIT OF BOLD TEXT.**
 
-1\. First item.
+1\. FIRST ITEM.
 
-2\. Second item.
+2\. SECOND ITEM.
 
-3\. Third item.
+3\. THIRD ITEM.
