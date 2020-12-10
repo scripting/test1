@@ -1,1 +1,1 @@
-All of this has happened before and all of this will happen again.
+You can't lie to a compiler.
