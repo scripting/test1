@@ -7,6 +7,21 @@
 	<body>
 		<outline text="June 2021" type="calendarMonth" name="june2021" >
 			<outline text="June 5" type="calendarDay" name="05" >
+				<outline text="@radicalbyte They lose devs all the time." type="tweet" created="Sat, 05 Jun 2021 15:10:41 GMT" tweetId="1401194774133149697" urltweet="https://twitter.com/davewiner/status/1401194774133149697" inReplyToId="1401193751767355392" tweetUserName="davewiner" />
+				<outline text="And as soon as they get a chance to bail on you, they will." type="tweet" created="Sat, 05 Jun 2021 15:10:10 GMT" tweetId="1401194643245707265" urltweet="https://twitter.com/davewiner/status/1401194643245707265" inReplyToId="1401194642020966402" tweetUserName="davewiner" />
+				<outline text="It's complete nonsense that it's okay to break users on a &quot;point release&quot; (ie moving from version 3 to r, for example).
+
+Every bit of breakage costs everyone who depends on your product, but ultimately you pay the biggest price.
+
+Next time you want people to update, they won't." type="tweet" created="Sat, 05 Jun 2021 15:10:10 GMT" tweetId="1401194642020966402" urltweet="https://twitter.com/davewiner/status/1401194642020966402" inReplyToId="1401194174481842181" tweetUserName="davewiner" />
+				<outline text="He had already figured out it was a huge mistake. 
+
+He became a member of the No-Breakage School of Software Development." type="tweet" created="Sat, 05 Jun 2021 15:08:18 GMT" tweetId="1401194174481842181" urltweet="https://twitter.com/davewiner/status/1401194174481842181" inReplyToId="1401194173420785665" tweetUserName="davewiner" />
+				<outline text="Font-awesome is also a cautionary tale.
+
+I got to know the founder of the company @davegandy, and as a user I wanted to give him a piece of my mind about how they changed the names of all the icons. 
+
+Why did you have to do that?" type="tweet" created="Sat, 05 Jun 2021 15:08:18 GMT" tweetId="1401194173420785665" urltweet="https://twitter.com/davewiner/status/1401194173420785665" inReplyToId="1401192098662080517" tweetUserName="davewiner" />
 				<outline text="This interview with Guido van Rossum about Python 4 also made me think of it. 
 
 https://t.co/jbY5uM9iYw
