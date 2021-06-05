@@ -17,6 +17,22 @@
                             "name": "05",
                             "subs": [
                                 {
+                                    "text": "@FTheGop5 @NYPost_Berman Yes! Bucks in 4.",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Jun 2021 14:08:15 GMT",
+                                    "tweetId": "1401179061326647299",
+                                    "inReplyToId": "1401178508605464583",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
+                                    "text": "@NYPost_Berman never",
+                                    "type": "tweet",
+                                    "created": "Sat, 05 Jun 2021 14:07:36 GMT",
+                                    "tweetId": "1401178897442652161",
+                                    "inReplyToId": "1401176936651575298",
+                                    "tweetUserName": "davewiner"
+                                },
+                                {
                                     "text": "Today is the day I was dreaming of when winter kept going on and on.",
                                     "type": "tweet",
                                     "created": "Sat, 05 Jun 2021 13:48:00 GMT",
