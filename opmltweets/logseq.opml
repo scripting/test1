@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>logseq tweets</title>
+		<dateCreated>Sat, 05 Jun 2021 01:32:01 GMT</dateCreated>
+		</head>
+	<body>
+		<outline text="June 2021" type="calendarMonth" name="june2021" >
+			<outline text="June 2" type="calendarDay" name="02" >
+				<outline text="@toranshaw 🥰 Thanks!" type="tweet" created="Wed, 02 Jun 2021 17:11:05 GMT" tweetId="1400137908867067904" inReplyToId="1400136833082834955" tweetUserName="logseq" />
+				<outline text="@FISSIONcodes Thank you for the shout out! #ToolsForThought are amazing and we'll continue to add support for more formats!" type="tweet" created="Wed, 02 Jun 2021 17:10:33 GMT" tweetId="1400137774871678976" inReplyToId="1400134288381595650" tweetUserName="logseq" />
+				<outline text="@nemons Not at all! Thanks for your support!" type="tweet" created="Wed, 02 Jun 2021 16:44:32 GMT" tweetId="1400131226334236672" inReplyToId="1400131005776908288" tweetUserName="logseq" />
+				<outline text="Thank you very much! Are you in our discord? https://t.co/R7bAyygZYV" type="tweet" created="Wed, 02 Jun 2021 15:46:30 GMT" tweetId="1400116624183611400" inReplyToId="" tweetUserName="logseq" />
+				<outline text="@flanciavera logseek 😀" type="tweet" created="Wed, 02 Jun 2021 15:40:18 GMT" tweetId="1400115062350647300" inReplyToId="1400114867130933249" tweetUserName="logseq" />
+				</outline>
+			</outline>
+		</body>
+	</opml>
