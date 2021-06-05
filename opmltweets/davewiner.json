@@ -2,96 +2,20 @@
     "opml": {
         "head": {
             "title": "davewiner tweets",
-            "dateCreated": "Fri, 04 Jun 2021 02:38:31 GMT"
+            "dateCreated": "Sat, 05 Jun 2021 01:31:42 GMT"
         },
         "body": {
             "subs": [
                 {
+                    "text": "June 2021",
                     "type": "calendarMonth",
                     "name": "june2021",
-                    "text": "June 2021",
                     "subs": [
                         {
+                            "text": "June 4",
                             "type": "calendarDay",
                             "name": "04",
-                            "text": "June 4",
                             "subs": [
-                                {
-                                    "text": "All of a sudden Chrome is adding a weird black thing to tabs in my browser window. I have no idea what it's supposed to mean. https://t.co/oWxWpdzl0m",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 19:19:07 GMT",
-                                    "tweetId": "1400894904008593416",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Trump Sycophants Plead for Less Coup Talk at Saturday Rally. https://t.co/2o3elNNy7u",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 18:51:52 GMT",
-                                    "tweetId": "1400888048536195072",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@TwitterBlue Fat tweets.\n\nhttps://t.co/g7spyCLrtp",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 18:47:54 GMT",
-                                    "tweetId": "1400887050841251846",
-                                    "inReplyToId": "1400580811095777286",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Alleged US Capitol rioter who heckled police for 'protecting pedophiles' served jail time for statutory rape of 14-year-old girl. https://t.co/18VI02fyjI",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 18:46:03 GMT",
-                                    "tweetId": "1400886582245199874",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "A great demo for how outlines work in planning. It would have worked even better if they projected the outline and updated it in real time as people discussed. \n\n#toolsforthought https://t.co/vpSkUN3dHD",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 18:45:01 GMT",
-                                    "tweetId": "1400886322638856199",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@nakedjen no doubt. but i think some places they have their shit together way better than in tech. i think the cause is confusion not bad intent.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 17:05:47 GMT",
-                                    "tweetId": "1400861351363461120",
-                                    "inReplyToId": "1400860975792750592",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@joshgondelman @tcarmody I also want to kick LeBron in the ass because he invited JR Smith into his club and not Melo.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 16:50:33 GMT",
-                                    "tweetId": "1400857516435808258",
-                                    "inReplyToId": "1400857341633961992",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@joshgondelman @tcarmody But now LeBron is kind of where Melo was five years ago? \n\nOr he's charting his own course. He can no longer assemble a championship-contending team.\n\nThat's a big freaking moment.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 16:49:51 GMT",
-                                    "tweetId": "1400857341633961992",
-                                    "inReplyToId": "1400857144161878022",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@joshgondelman @tcarmody It's in season. As a lifetime Knicks fan the story of Melo has been gripping drama. And I like where he ended up. I also like the symbolism that he outlasted the Knicks in the playoff by one day and one game. And that he deserves the spot he has. Lots of lessons.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 16:49:04 GMT",
-                                    "tweetId": "1400857144161878022",
-                                    "inReplyToId": "1400855732564725769",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@tcarmody @joshgondelman omg we're entering the rank-on-lebron part of existence.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 16:40:06 GMT",
-                                    "tweetId": "1400854888968560641",
-                                    "inReplyToId": "1400854715924090888",
-                                    "tweetUserName": "davewiner"
-                                },
                                 {
                                     "text": "From my point of view, tech is drowning in too many ways to do the same thing, at all levels.",
                                     "type": "tweet",
@@ -111,173 +35,6 @@
                                     "type": "tweet",
                                     "created": "Fri, 04 Jun 2021 15:28:26 GMT",
                                     "tweetId": "1400836851339042819",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "We may fail to vaccinate our way out of this epidemic by this summer and soon face the specter of emerging variants of concern. https://t.co/QX1zcFonHw",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 10:48:47 GMT",
-                                    "tweetId": "1400766477142315009",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Publishing’s cancel culture debate boils over. https://t.co/almaSV0QNq",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 09:23:15 GMT",
-                                    "tweetId": "1400744952364216323",
-                                    "tweetUserName": "davewiner"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "calendarDay",
-                            "name": "03",
-                            "text": "June 3",
-                            "subs": [
-                                {
-                                    "text": "Love this resort in Shandaken, currently owned by Kate Pierson of the B-52s. https://t.co/BT9OzPtnzo?",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 03:05:27 GMT",
-                                    "tweetId": "1400649875012870144",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Dear @jack when you clean up twitter news, no more hidden destinations, esp w all the nasty bits that hide behind https://t.co/mFftJ4i5Ix. Always surprised where they take me. https://t.co/C2Izy6xtkd",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 03:01:32 GMT",
-                                    "tweetId": "1400648890156818432",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "This must be Kate McKinnon. https://t.co/LMJqq3vWMp",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 02:48:14 GMT",
-                                    "tweetId": "1400645543500599296",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Rudy Giuliani has been sleeping on MyPillows for \"some time.\" Oy! https://t.co/LMJqq3vWMp",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 02:46:34 GMT",
-                                    "tweetId": "1400645123990511624",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@rynk How many pubs do you imagine I would subscribe to?\n\nWhich ones?",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 02:42:07 GMT",
-                                    "tweetId": "1400644001594806273",
-                                    "inReplyToId": "1400635334271111168",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@TommyBeer If it weren't for all the superteams he might have a chance.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 02:41:07 GMT",
-                                    "tweetId": "1400643752188858370",
-                                    "inReplyToId": "1400642719345745927",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "This is a test. Please ignore. :-)",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 02:39:32 GMT",
-                                    "tweetId": "1400643351523758083",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Sorry to see Portland lose. I was hoping for a Game 7.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 02:35:32 GMT",
-                                    "tweetId": "1400642346245578762",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Melo always should have been a #2, a Scotty Pippen, not Michael Jordan.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 02:10:25 GMT",
-                                    "tweetId": "1400636024234123266",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Google Pixel Buds A-Series. What do you think? https://t.co/5tjMBJnkmm",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 02:05:11 GMT",
-                                    "tweetId": "1400634709454082049",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "United will buy 15 ultrafast airplanes from start-up Boom Supersonic. https://t.co/xcY0NnW6NN",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 01:41:32 GMT",
-                                    "tweetId": "1400628755090051077",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@rynk How so?",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 01:29:54 GMT",
-                                    "tweetId": "1400625828325691393",
-                                    "inReplyToId": "1400622759772835841",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@Toronto_Chad @Bibliogato https://t.co/C68BtH7XaZ",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 00:51:55 GMT",
-                                    "tweetId": "1400616268089208832",
-                                    "inReplyToId": "1400615344440438784",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Kinda fun, the day after Knicks eliminated, Melo is still playing, for Portland.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 00:49:54 GMT",
-                                    "tweetId": "1400615761719304193",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Here's the news experience I want. https://t.co/Aoy1Tg1nmy",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 00:28:29 GMT",
-                                    "tweetId": "1400610371967332353",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Today no single publication delivers the full news experience. https://t.co/RRYSw2TJ8A",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 00:25:17 GMT",
-                                    "tweetId": "1400609566409252869",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@Bibliogato A piece I wrote about this last year.\n\nhttps://t.co/RRYSw2TJ8A",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 00:24:21 GMT",
-                                    "tweetId": "1400609331381518336",
-                                    "inReplyToId": "1400446995081306120",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "@cyrulnik @Bibliogato Yes.",
-                                    "type": "tweet",
-                                    "created": "Fri, 04 Jun 2021 00:12:18 GMT",
-                                    "tweetId": "1400606300531310596",
-                                    "inReplyToId": "1400600449795887108",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Ask President Carter. https://t.co/Gqz5FDao6k",
-                                    "type": "tweet",
-                                    "created": "Thu, 03 Jun 2021 22:28:29 GMT",
-                                    "tweetId": "1400580172844310532",
-                                    "tweetUserName": "davewiner"
-                                },
-                                {
-                                    "text": "Medium sees more employee exits after CEO publishes ‘culture memo’. https://t.co/egW5a2m2Ai",
-                                    "type": "tweet",
-                                    "created": "Thu, 03 Jun 2021 22:10:42 GMT",
-                                    "tweetId": "1400575699862294528",
                                     "tweetUserName": "davewiner"
                                 }
                             ]
