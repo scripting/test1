@@ -1,0 +1,49 @@
+{
+    "opml": {
+        "head": {
+            "title": "logseq tweets",
+            "dateCreated": "Sat, 05 Jun 2021 01:32:01 GMT"
+        },
+        "body": {
+            "subs": [
+                {
+                    "text": "June 2021",
+                    "type": "calendarMonth",
+                    "name": "june2021",
+                    "subs": [
+                        {
+                            "text": "June 2",
+                            "type": "calendarDay",
+                            "name": "02",
+                            "subs": [
+                                {
+                                    "text": "@nemons Not at all! Thanks for your support!",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 16:44:32 GMT",
+                                    "tweetId": "1400131226334236672",
+                                    "inReplyToId": "1400131005776908288",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "Thank you very much! Are you in our discord? https://t.co/R7bAyygZYV",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 15:46:30 GMT",
+                                    "tweetId": "1400116624183611400",
+                                    "tweetUserName": "logseq"
+                                },
+                                {
+                                    "text": "@flanciavera logseek 😀",
+                                    "type": "tweet",
+                                    "created": "Wed, 02 Jun 2021 15:40:18 GMT",
+                                    "tweetId": "1400115062350647300",
+                                    "inReplyToId": "1400114867130933249",
+                                    "tweetUserName": "logseq"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
